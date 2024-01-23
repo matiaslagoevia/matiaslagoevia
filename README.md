@@ -20,3 +20,4 @@ I'm a professional software developer based in Manhattan.
 2. [Preview Card Component](https://github.com/matiaslagoevia/preview-card-component)
 3. [Price Component](https://github.com/matiaslagoevia/price-component)
 4. [Order Summary Component](https://github.com/matiaslagoevia/order-summary)
+5. [Stats Preview Component](https://github.com/matiaslagoevia/stats-preview-component)
