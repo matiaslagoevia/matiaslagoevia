@@ -1,9 +1,6 @@
 <!-- Inspired by: https://github.com/YuriDevAT — thank you! -->
 # Hi there, I'm Matias! 👋
 I'm a professional software developer based in Manhattan.
-
-<a href="https://matiaslagoevia.com/"><img src="https://img.shields.io/badge/WORK WITH ME-CC6699?style=for-the-badge&logoColor=white" alt="Work with me" /></a>&nbsp;
-<a href="https://linktr.ee/matiaslagoevia"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree" /></a>&nbsp;
   
 ## 📍 Github Project Summary
 ### Personal
