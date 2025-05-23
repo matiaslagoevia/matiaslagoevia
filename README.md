@@ -3,6 +3,8 @@
 I'm a professional software developer based in Manhattan.
   
 ## 📍 Github Project Summary
+Please refer to the complete list [on my website](https://www.matiaslagoevia.me/projects).
+
 ### Personal
 1. [Writeups](https://github.com/matiaslagoevia/writeups) — Leetcode editorials and other content that I'd like to share on blogs/etc
 2. [Next Dashboard](https://github.com/matiaslagoevia/next-dashboard) — a ficticious company dashboard using Next.JS App Router and other cool stuff
